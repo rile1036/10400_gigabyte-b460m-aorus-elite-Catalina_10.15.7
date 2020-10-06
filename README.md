@@ -1,4 +1,4 @@
-# Hackintosh
+# Hackintosh Catalina 10.15.7
 
 ![default](./image/success.png)
 
